@@ -31,6 +31,8 @@ Examples of behavior that contributes to creating a positive environment include
 Examples of unacceptable behavior by participants include:
 
   * The use of sexualized language or imagery and unwelcome sexual attention or advances, including when simulated online. The only exception to sexual topics is channels/spaces specifically for topics of sexual identity.
+  * Casual mention of slavery or indentured servitude and/or false comparisons of one's occupation or situation to slavery. Please consider using or asking about alternate terminology when referring to such metaphors in technology.
+  * Making light of/making mocking comments about trigger warnings and content warnings.
   * Trolling, insulting/derogatory comments, and personal or political attacks.
   * Public or private harassment, deliberate intimidation, or threats.
   * Publishing others' private information, such as a physical or electronic address, without explicit permission. This includes any sort of "outing" of any aspect of someone's identity without their consent.
@@ -53,7 +55,7 @@ Depending on the violation, the maintainers may decide that violations of this c
 
 As a project on GitHub, this project is additionally covered by the [GitHub Community Guidelines](https://help.github.com/articles/github-community-guidelines/).
 
-Additionally, as a project hosted on npm, is is covered by [npm, Inc's Code of Conduct](https://www.npmjs.com/policies/conduct).
+Additionally, as a project hosted on npm, it is covered by [npm, Inc's Code of Conduct](https://www.npmjs.com/policies/conduct).
 
 Enforcement of those guidelines after violations overlapping with the above are the responsibility of the entities, and enforcement may happen in any or all of the services/communities.
 
@@ -132,7 +134,7 @@ Sometimes, though, you need to get maintainers involved. Maintainers will do the
 
 > Patt: "NOOOOPE. OH NOPE NOPE."
 
-> Alex: "JFC NO. NOPE. @keeperofbits NOPE NOPE LOOK HERE"
+> Alex: "ABSOLUTELY NOT, NO. NOPE. @keeperofbits NOPE NOPE LOOK HERE"
 
 > KeeperOfCommitBits: "👀 Nope. NOPE NOPE NOPE. 🔥"
 
